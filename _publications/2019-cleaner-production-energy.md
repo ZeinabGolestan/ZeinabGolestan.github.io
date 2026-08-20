@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-cleaner-production-energy
 date: 2019-12-01
 venue: 'Journal of Cleaner Production'
-paperurl: 'https://doi.org/10.1016/j.jclepro.2019.118670'
+paperurl: '[https://doi.org/10.1016/j.jclepro.2019.118670](https://zeinabgolestan.github.io/files/Identifying energy-intensive key sectors in Iran.pdf)'
 citation: 'Golestan, Z., et al. (2019). &quot;The impact of renewable energy consumption and financial development on environmental quality: Empirical evidence from Central Asian countries.&quot; <i>Journal of Cleaner Production</i>, Vol. 240, 118670.'
 ---
 
@@ -16,4 +16,4 @@ This study empirically examines the dynamic relationships between renewable ener
 * Empirical evaluation of renewable energy adoption and its impact on carbon intensity.
 * Policy implications for sustainable energy transition and environmental governance.
 
-[Read Full Article on ScienceDirect](https://doi.org/10.1016/j.jclepro.2019.118670)
+[Download Full Paper (PDF)](https://zeinabgolestan.github.io/files/Identifying energy-intensive key sectors in Iran.pdf) | [View on ScienceDirect](https://doi.org/10.1016/j.jclepro.2019.118670)
