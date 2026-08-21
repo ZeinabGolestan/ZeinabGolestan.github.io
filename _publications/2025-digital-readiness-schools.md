@@ -16,3 +16,4 @@ This paper investigates the infrastructure, organizational capacity, and analyti
 * Strategic framework for integrating Big Data tools to improve institutional decision-making and educational policy.
 
 [Download Paper / Proceedings (PDF)](https://zeinabgolestan.github.io/files/2025_digital_readiness_schools.pdf)
+[Download Paper (PDF)](https://zeinabgolestan.github.io/files/2025_digital_readiness_schools.pdf) | [Download Presentation Slides (PDF)](https://zeinabgolestan.github.io/files/2025_digital_readiness_presentation.pdf)
